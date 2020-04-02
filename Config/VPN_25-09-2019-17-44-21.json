@@ -1,0 +1,59 @@
+{
+    "@odata.type":  "#microsoft.graph.windows10VpnConfiguration",
+    "id":  "86ea966d-d204-42e4-8bf0-d9e32e689bd2",
+    "lastModifiedDateTime":  "2019-07-10T15:25:20.9822644Z",
+    "roleScopeTagIds":  [
+                            "0"
+                        ],
+    "supportsScopeTags":  true,
+    "deviceManagementApplicabilityRuleOsEdition":  null,
+    "deviceManagementApplicabilityRuleOsVersion":  null,
+    "deviceManagementApplicabilityRuleDeviceMode":  null,
+    "createdDateTime":  "2019-07-10T15:25:20.9822644Z",
+    "description":  "VPN F5",
+    "displayName":  "VPN",
+    "version":  1,
+    "connectionName":  "VPN",
+    "customXml":  "PGY1LXZwbi1jb25mPjxzaW5nbGUtc2lnbi1vbi1jcmVkZW50aWFsIC8+PC9mNS12cG4tY29uZj4=",
+    "profileTarget":  null,
+    "connectionType":  "f5EdgeClient",
+    "enableSplitTunneling":  false,
+    "enableAlwaysOn":  false,
+    "enableDeviceTunnel":  null,
+    "enableDnsRegistration":  null,
+    "dnsSuffixes":  [
+
+                    ],
+    "authenticationMethod":  "usernameAndPassword",
+    "rememberUserCredentials":  false,
+    "enableConditionalAccess":  false,
+    "enableSingleSignOnWithAlternateCertificate":  false,
+    "singleSignOnEku":  null,
+    "singleSignOnIssuerHash":  null,
+    "eapXml":  null,
+    "proxyServer":  null,
+    "onlyAssociatedAppsCanUseConnection":  null,
+    "windowsInformationProtectionDomain":  null,
+    "trustedNetworkDomains":  [
+
+                              ],
+    "servers":  [
+                    {
+                        "description":  "VPN",
+                        "address":  "vpn.demo.com",
+                        "isDefaultServer":  true
+                    }
+                ],
+    "associatedApps":  [
+
+                       ],
+    "trafficRules":  [
+
+                     ],
+    "routes":  [
+
+               ],
+    "dnsRules":  [
+
+                 ]
+}

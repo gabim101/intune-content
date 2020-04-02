@@ -1,0 +1,25 @@
+{
+    "@odata.type":  "#microsoft.graph.windows10CustomConfiguration",
+    "id":  "afbf9b56-9136-4f5a-8f14-5b76e45bdebc",
+    "lastModifiedDateTime":  "2019-07-10T15:25:23.5438803Z",
+    "roleScopeTagIds":  [
+                            "0"
+                        ],
+    "supportsScopeTags":  true,
+    "deviceManagementApplicabilityRuleOsEdition":  null,
+    "deviceManagementApplicabilityRuleOsVersion":  null,
+    "deviceManagementApplicabilityRuleDeviceMode":  null,
+    "createdDateTime":  "2019-07-10T15:25:23.5438803Z",
+    "description":  "AppAssociation",
+    "displayName":  "AppAssociation",
+    "version":  1,
+    "omaSettings":  [
+                        {
+                            "@odata.type":  "#microsoft.graph.omaSettingString",
+                            "displayName":  "DefaultAssociationsConfiguration",
+                            "description":  "DefaultAssociationsConfiguration",
+                            "omaUri":  "./Vendor/MSFT/Policy/Config/ApplicationDefaults/DefaultAssociationsConfiguration",
+                            "value":  "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPERlZmF1bHRBc3NvY2lhdGlvbnM+CiAgPEFzc29jaWF0aW9uIElkZW50aWZpZXI9Ii5odG0iIFByb2dJZD0iaHRtbGZpbGUiIEFwcGxpY2F0aW9uTmFtZT0iSW50ZXJuZXQgRXhwbG9yZXIiIEFwcGx5T25VcGdyYWRlPSJ0cnVlIiBPdmVyd3JpdGVJZlByb2dJZElzPSJBcHBYNGh4dGFkNzdmYmszamtrZWVya3JtMHplOTR3amYzczkiIC8+CiAgPEFzc29jaWF0aW9uIElkZW50aWZpZXI9Ii5odG1sIiBQcm9nSWQ9Imh0bWxmaWxlIiBBcHBsaWNhdGlvbk5hbWU9IkludGVybmV0IEV4cGxvcmVyIiBBcHBseU9uVXBncmFkZT0idHJ1ZSIgT3ZlcndyaXRlSWZQcm9nSWRJcz0iQXBwWDRoeHRhZDc3ZmJrM2pra2VlcmtybTB6ZTk0d2pmM3M5IiAvPgogIDxBc3NvY2lhdGlvbiBJZGVudGlmaWVyPSJodHRwIiBQcm9nSWQ9IklFLkhUVFAiIEFwcGxpY2F0aW9uTmFtZT0iSW50ZXJuZXQgRXhwbG9yZXIiIEFwcGx5T25VcGdyYWRlPSJ0cnVlIiBPdmVyd3JpdGVJZlByb2dJZElzPSJBcHBYcTBmZXZ6bWUycHlzNjJuM2UwZmJxYTdwZWFweWtyOHYiIC8+CiAgPEFzc29jaWF0aW9uIElkZW50aWZpZXI9Imh0dHBzIiBQcm9nSWQ9IklFLkhUVFBTIiBBcHBsaWNhdGlvbk5hbWU9IkludGVybmV0IEV4cGxvcmVyIiBBcHBseU9uVXBncmFkZT0idHJ1ZSIgT3ZlcndyaXRlSWZQcm9nSWRJcz0iQXBwWDkwbnY2bmhheTVuNmE5OGZuZXR2N3RwazY0cHAzNWVzIiAvPgogIDxBc3NvY2lhdGlvbiBJZGVudGlmaWVyPSIucGRmIiBQcm9nSWQ9IkFjcm9FeGNoLkRvY3VtZW50LkRDIiBBcHBsaWNhdGlvbk5hbWU9IkFkb2JlIEFjcm9iYXQgUmVhZGVyIERDIiBBcHBseU9uVXBncmFkZT0idHJ1ZSIgT3ZlcndyaXRlSWZQcm9nSWRJcz0iQXBwWGQ0bnJ6OGZmNjhzcm5oZjl0NWE4c2JqeWFyMWNyNzIzIiAvPgogIDxBc3NvY2lhdGlvbiBJZGVudGlmaWVyPSJtYWlsdG8iIFByb2dJZD0iT3V0bG9vay5VUkwubWFpbHRvLjE1IiBBcHBsaWNhdGlvbk5hbWU9Ik91dGxvb2sgMjAxNiIgQXBwbHlPblVwZ3JhZGU9InRydWUiIE92ZXJ3cml0ZUlmUHJvZ0lkSXM9IkFwcFh5ZGs1OHdnbTQ0c2U0YjM5OTU1N3l5eWoxdzdtYm12ZCIgLz4KPC9EZWZhdWx0QXNzb2NpYXRpb25zPg=="
+                        }
+                    ]
+}

@@ -1,0 +1,32 @@
+{
+    "@odata.type":  "#microsoft.graph.windows10CustomConfiguration",
+    "id":  "c94e7c3f-758a-4b61-8458-61ee9281a7a7",
+    "lastModifiedDateTime":  "2019-07-10T15:25:25.5020477Z",
+    "roleScopeTagIds":  [
+                            "0"
+                        ],
+    "supportsScopeTags":  true,
+    "deviceManagementApplicabilityRuleOsEdition":  null,
+    "deviceManagementApplicabilityRuleOsVersion":  null,
+    "deviceManagementApplicabilityRuleDeviceMode":  null,
+    "createdDateTime":  "2019-07-10T15:25:25.5020477Z",
+    "description":  "",
+    "displayName":  "Logon Message",
+    "version":  1,
+    "omaSettings":  [
+                        {
+                            "@odata.type":  "#microsoft.graph.omaSettingString",
+                            "displayName":  "Logon Message",
+                            "description":  null,
+                            "omaUri":  "./Vendor/MSFT/Policy/Config/LocalPoliciesSecurityOptions/InteractiveLogon_MessageTitleForUsersAttemptingToLogOn",
+                            "value":  "W.L. Gore ***NOTICE!***"
+                        },
+                        {
+                            "@odata.type":  "#microsoft.graph.omaSettingString",
+                            "displayName":  "Logon MSG",
+                            "description":  null,
+                            "omaUri":  "./Vendor/MSFT/Policy/Config/LocalPoliciesSecurityOptions/InteractiveLogon_MessageTextForUsersAttemptingToLogOn",
+                            "value":  "This computer network contains confidential and proprietary information of W.L. Gore, its subsidiaries and its affiliates. No disclosure, duplication or use of any portion of the network outside of W.L. Gore is permitted without the prior express written consent of W.L. Gore. Questions concerning the use or disclosure of proprietary information must be promptly referred through proper channels to the Testlab Corporation Legal Department.\n-----------------------------------------------------------------------------------------------"
+                        }
+                    ]
+}

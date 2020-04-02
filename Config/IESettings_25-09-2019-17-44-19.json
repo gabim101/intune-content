@@ -1,0 +1,32 @@
+{
+    "@odata.type":  "#microsoft.graph.windows10CustomConfiguration",
+    "id":  "489721f7-726c-4d78-89aa-a2e84283ed4a",
+    "lastModifiedDateTime":  "2019-07-10T15:25:26.0031487Z",
+    "roleScopeTagIds":  [
+                            "0"
+                        ],
+    "supportsScopeTags":  true,
+    "deviceManagementApplicabilityRuleOsEdition":  null,
+    "deviceManagementApplicabilityRuleOsVersion":  null,
+    "deviceManagementApplicabilityRuleDeviceMode":  null,
+    "createdDateTime":  "2019-07-10T15:25:26.0031487Z",
+    "description":  "IESettings",
+    "displayName":  "IESettings",
+    "version":  1,
+    "omaSettings":  [
+                        {
+                            "@odata.type":  "#microsoft.graph.omaSettingString",
+                            "displayName":  "DisableFirstRun",
+                            "description":  "DisableFirstRun",
+                            "omaUri":  "./User/Vendor/MSFT/Policy/Config/InternetExplorer/DisableFirstRunWizard",
+                            "value":  "\u003cenabled/\u003e\u003cdata id=\"FirstRunOptions\" value=\"1\" /\u003e"
+                        },
+                        {
+                            "@odata.type":  "#microsoft.graph.omaSettingString",
+                            "displayName":  "Homepage Settings",
+                            "description":  "Disable Homepage Change",
+                            "omaUri":  "./User/Vendor/MSFT/Policy/Config/InternetExplorer/DisableHomePageChange",
+                            "value":  "\u003cenabled/\u003e\u003cdata id=\"EnterHomePagePrompt\" value=\"https://www.gore.com/\"/\u003e"
+                        }
+                    ]
+}
